@@ -18,6 +18,8 @@ https://github.com/spatie/laravel-activitylog
 
 https://laravelcollective.com/docs/6.x/html
 
+https://github.com/jeroennoten/Laravel-AdminLTE
+
 To run the project, do:
 
 1) First, clone the repository.
