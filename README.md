@@ -38,7 +38,7 @@ To run the project, do:
 
 8) Run the command "npm run watch", and after compiled, finalized the command with CTRL + C
 
-9) Now, run "php artisan serve" to run the server and access in your browser. By default, running in the http://localhost:8000/
+9) Now, run "php artisan serve" to start the server and access in your browser. By default, running in the http://localhost:8000/
 
 10) Congratulations, you run the project and now, can personalized and continue the development with your requirements.
 
