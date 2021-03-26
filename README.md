@@ -2,7 +2,7 @@ Welcome to the Laravel-AdminLTE3-Backoffice-Panel wiki!
 
 The project use packages: AdminLTE3, Laravel UI, spatie/laravel-activitylog, Laravel Collective (Version 6.X) and Laravel Framework Version 8.0
 
-Is necessary has installed the Composer, Node, PHP 7.X+, Mysql Server.
+Is necessary have installed Composer, Node, PHP 7.X+, Mysql Server.
 
 Links: https://getcomposer.org/
 
