@@ -40,6 +40,6 @@ To run the project, do:
 
 9) Now, run "php artisan serve" to start the server and access in your browser. By default, running in the http://localhost:8000/
 
-10) Congratulations, you run the project and now, can personalized and continue the development with your requirements.
+10) Congratulations, you run the project and now, can personalize and continue the development with your requirements.
 
 Author: Mateus Galieta
